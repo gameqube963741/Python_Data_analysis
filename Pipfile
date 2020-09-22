@@ -16,6 +16,8 @@ scipy = "*"
 patsy = "*"
 scikit-learn = "*"
 beautifulsoup4 = "*"
+jupyterlab = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"
